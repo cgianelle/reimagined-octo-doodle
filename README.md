@@ -2,7 +2,7 @@
 A Ruby-Sinatra project that does nothing but explore the world of sidekiq
 
 ## Sidekiq
-![Sidekiq Workflow](sidekiq workflow.png)
+![Sidekiq Workflow](sidekiq-workflow.png)
 
 ## Running the Sidekiq Server
 ~~~~
